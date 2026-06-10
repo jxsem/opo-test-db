@@ -1,0 +1,1 @@
+-- Insercción de datos en la tabla paciente
